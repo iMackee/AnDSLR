@@ -1,0 +1,2 @@
+set solib-search-path /home/jon/AnDSLR/AnDSLR/andslr/obj/local/armeabi
+directory /home/jon/android/ndk/platforms/android-9/arch-arm/usr/include /home/jon/android/ndk/sources/cxx-stl/gnu-libstdc++/include /home/jon/android/ndk/sources/cxx-stl/gnu-libstdc++/libs/armeabi/include /home/jon/AnDSLR/AnDSLR/andslr/jni/libraw
